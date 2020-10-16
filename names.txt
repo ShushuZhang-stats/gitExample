@@ -1,2 +1,3 @@
-boss, szhang695, Zhang, Shushu
+role,NetID,FamilyName,GivenName
+boss,szhang695,Zhang,Shushu
 employee,cao234,Cao,Yuan
